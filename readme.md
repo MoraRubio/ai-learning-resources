@@ -3,6 +3,7 @@
 ## Fundamentos
 
 - [Python programming](https://pythonprogramming.net/introduction-to-python-programming/)
+- [Python tutorial](https://www.w3schools.com/python/default.asp) por W3Schools
 - [Linear Algebra](https://www.khanacademy.org/math/linear-algebra)  por Khan Academy
 - [Linear Algebra for Machine Learning and Data Science](https://www.coursera.org/learn/machine-learning-linear-algebra) por deeplearning.ai
 - [Essence of Linear Algebra](https://youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) por 3Blue1Brown
@@ -38,7 +39,6 @@
 ## Libros
 
 - Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow - Aurelien Geron - O'Reilly Media (2019)
-
 - Introduction to Machine Learning with Python - Andreas C. Müller, Sarah Guido - O’Reilly Media (2016)
 
 ---
