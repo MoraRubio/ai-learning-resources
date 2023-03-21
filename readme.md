@@ -10,6 +10,28 @@
 
 ---
 
+## Cursos
+
+- [Inteligencia Artificial para las Ciencias y las Ingenierías](https://rramosp.github.io/ai4eng.v1/intro.html) de la Universidad de Antioquia.
+- [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) por deeplearning.ai
+- [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) por deeplearning.ai
+
+---
+
+## Machine Learning
+
+- [Repositorio de GitHub](https://github.com/ageron/handson-ml2) del libro *Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow* por Aurelien Geron
+- [Tareas de programación en Python](https://github.com/dibgerge/ml-coursera-python-assignments) del curso original de Machine Learning por Andrew Ng
+
+---
+
+## Libros
+
+- Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow - Aurelien Geron - O'Reilly Media (2019)
+- Introduction to Machine Learning with Python - Andreas C. Müller, Sarah Guido - O’Reilly Media (2016)
+
+---
+
 ## Repositorios de datos
 
 - [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php) 
@@ -20,26 +42,6 @@
 - [Quandl](http://quandl.com/)
 - [Wikipedia’s list of Machine Learning datasets](https://homl.info/9)
 - [The datasets subreddit](https://www.reddit.com/r/datasets)
-
----
-
-## Machine Learning
-
-- [GitHub repository](https://github.com/ageron/handson-ml2) for *Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow* by Aurelien Geron
-- [Python Programming Assignments](https://github.com/dibgerge/ml-coursera-python-assignments) of Coursera Machine Learning MOOC by Andrew Ng
-
----
-
-## Cursos completos
-
-- [Inteligencia Artificial para las Ciencias y las Ingenierías](https://rramosp.github.io/ai4eng.v1/intro.html) de la Universidad de Antioquia.
-
----
-
-## Libros
-
-- Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow - Aurelien Geron - O'Reilly Media (2019)
-- Introduction to Machine Learning with Python - Andreas C. Müller, Sarah Guido - O’Reilly Media (2016)
 
 ---
 
