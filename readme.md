@@ -13,7 +13,9 @@
 ## Cursos
 
 - [Inteligencia Artificial para las Ciencias y las Ingenierías](https://rramosp.github.io/ai4eng.v1/intro.html) de la Universidad de Antioquia.
+- [Machine Learning](https://developers.google.com/machine-learning) por Google Developer
 - [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) por deeplearning.ai
+- [Deep Learning Spring 2020](https://atcold.github.io/pytorch-Deep-Learning/) de NYU
 - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) por deeplearning.ai
 
 ---
@@ -34,7 +36,7 @@
 
 ## Repositorios de datos
 
-- [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php) 
+- [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
 - [Kaggle datasets](https://www.kaggle.com/datasets)
 - [Amazon’s AWS datasets](https://registry.opendata.aws/)
 - [Data Portals](http://dataportals.org/)
