@@ -31,6 +31,7 @@
 
 - Hands-on Machine Learning with Scikit-Learn, Keras & TensorFlow - Aurelien Geron - O'Reilly Media (2019)
 - Introduction to Machine Learning with Python - Andreas C. Müller, Sarah Guido - O’Reilly Media (2016)
+- [Deep Learning](http://www.deeplearningbook.org) - Ian Goodfellow, Yoshua Bengio and Aaron Courville - MIT Press (2016)
 
 ---
 
